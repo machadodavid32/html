@@ -2,3 +2,46 @@ h1 {
     color: red;
 }
 
+p {
+    color: blue;
+}
+
+h2 {
+    color: rebeccapurple;
+    text-align: center;
+    font-size: 50px;
+}
+
+/* comentários */
+
+/* Classes e Ids */
+
+.p-texto {
+    color: lightblue;
+}
+
+#titulo-app {
+    color: purple;
+    font-size: 40px;
+}
+
+/*Cores no CSS*/
+
+.nome {
+    color: brown;
+
+}
+
+/* Aqui pode-se buscar no google como colorpicker hexadecimal e colocar o codigo.
+.hexa */
+.hexa {
+    color: #e7c480;
+    
+
+}
+
+.rgba {
+    color: rgb(22, 122, 171)
+
+
+}
