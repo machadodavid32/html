@@ -43,5 +43,33 @@ h2 {
 .rgba {
     color: rgb(22, 122, 171)
 
-
 }
+
+/* backgrounds*/
+
+.div-background {
+    background-image: url('frio.png');
+    height: 300px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.titulo-background {
+    text-align: center;
+    background-color: #000000;
+    color: #fff;
+}
+
+.back {
+    background-image: url('frio.png');
+    height: 300px;
+}
+
+/* fontes */
+
+.family {
+    color: #000000;
+        }
+
