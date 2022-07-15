@@ -71,5 +71,35 @@ h1 {
 
 .family {
     color: #000000;
+    font-size: 40px;
         }
 
+.serif {
+    font-family: "times new roman";
+}        
+
+.sans-serif {
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    
+}
+
+.monoscape {
+    font-family:"Courier New";
+}
+
+.italic {
+    font-style: italic;
+}
+
+.oblique {
+    font-style: oblique;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.variant {
+    font-variant: small-caps;
+}
